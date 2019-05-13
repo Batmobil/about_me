@@ -8,8 +8,12 @@ permalink: /about/
 
 Describe yourself here. Dummy text ahead.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hello, I'm Baptiste Delattre, looking for a job in data science. Since my Master Degree in physics engineering, I had the opportunities to work on several projects concerning Data Analysis and engineering as a creation and maintenance of a data Pipeline with R, Python, Airflow and cloud services like AWS. I also enjoy trying new visualisation tools like <a <href='https://superset.incubator.apache.org/'> Apache Superset</a> or <a <href='https://dash.plot.ly/getting-started'>Plotly-Dash</a>. From time to time, I try to follow some contest on Kaggle. Also in this fast evolving field I like to stay up to date with state of the art techniques following online courses on Coursera, Udemy or other MOOC platforms.
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. 
+Recently, I had a personal interest in data science/engineering computations using GPU, notably the <a href<href='https://rapids.ai/about.html'>RAPIDS initiative</a>.
+The computation time gain is very interesting for Big Data processing provided that you have access to GPUs to execute your code and that your code can be operated in parallel.
 
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur? At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.
+On my free time, I like to practice climbing, handball and hiking in the beatiful province of Quebec in Canada.
+I also enjoy science-fiction novels or essays from time to time.
+
+If I can help you in any data-related challenge you might encounter or you simply want to connect, feel free to write me at my email address appearing below. 
