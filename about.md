@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/stefan-stefancik-105374-unsplash.jpg" width=300 align="right" %}
 
 Hello, I'm Baptiste Delattre, looking for a job in data science. Since my Master Degree in physics engineering, I had the opportunities to work on several projects concerning Data Analysis and engineering as a creation and maintenance of a data Pipeline with R, Python, Airflow and cloud services like AWS. I also enjoy trying new visualisation tools like <a href="https://superset.incubator.apache.org/"> Apache Superset</a> or <a href="https://dash.plot.ly/getting-started">Plotly-Dash</a>. From time to time, I try to follow some contest on Kaggle. Also in this fast evolving field I like to stay up to date with state of the art techniques following online courses on Coursera, Udemy or other MOOC platforms.
 
