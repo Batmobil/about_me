@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I'm a physics engineer interested in data science/engineering. Mainly using python with packages like Dask, Plotly-Dash, pandas, scikit-learn, light-gbm, keras, Airflow.
   Recently interested in the RAPIDS project with the confluence of actors like Omnisci (MapD), Dask, CuPy.
 
-baseurl: "/about_me" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 
 url: "https://batmobil.github.io" # the base hostname & protocol for your site
 
