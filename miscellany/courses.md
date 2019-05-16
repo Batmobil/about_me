@@ -4,7 +4,7 @@ title: Key Courses Undertaken
 permalink: /miscellany/courses/
 ---
 <h2>MOOC</h2>
-<a href="https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-self-paced">CS231n</a>: Statistical Learning<br>
+<b>&nbsp;&middot;&nbsp;</b> <a href="https://online.stanford.edu/courses/sohs-ystatslearning-statistical-learning-self-paced">Statistical Learning</a>: Stanford University<br>
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/learn/data-manipulation/home/welcome">Data Manipulation at Scale: Systems and Algorithms</a>: Université de Washington<br>
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/learn/machine-learning/home/welcome">Machine Learning</a>: Stanford University<br>
 <b>&nbsp;&middot;&nbsp;</b> <a href="https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome">Neural Networks and Deep Learning</a>: deeplearning.ai<br>
